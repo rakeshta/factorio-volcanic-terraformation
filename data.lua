@@ -1,0 +1,3 @@
+-- Volcanic Terraformation Mod
+-- Data stage: Currently a no-op mod
+-- Future: Will define tiles, recipes, and technologies here

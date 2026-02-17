@@ -1,0 +1,10 @@
+{
+  "name": "volcanic-terraformation",
+  "version": "0.1.0",
+  "title": "Volcanic Terraformation",
+  "author": "rakesh",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "A two-stage terraforming process for converting lava into buildable terrain on Vulcanus. Bridges the gap between early-game lava restrictions and late-game Foundation technology.",
+  "space_travel_required": true
+}

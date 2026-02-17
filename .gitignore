@@ -1,0 +1,19 @@
+# Factorio mod directory (if symlinked or copied for testing)
+factorio-mods/
+
+# Build artifacts
+*.zip
+*.zip.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/launch.json
+
+# Logs
+*.log
