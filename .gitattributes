@@ -1,0 +1,5 @@
+# Files and folders to exclude from git archive (mod packaging)
+.vscode/ export-ignore
+docs/ export-ignore
+mod.sh export-ignore
+README.md export-ignore
